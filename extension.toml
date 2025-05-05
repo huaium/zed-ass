@@ -1,0 +1,11 @@
+id = "zed-ass"
+name = "ASS Subtitle"
+version = "0.0.1"
+schema_version = 1
+authors = ["Huaium <huaium233@gmail.com>"]
+description = "ASS/SSA Syntax Highlighting."
+repository = "https://github.com/huaium/zed-ass"
+
+[grammars.ass]
+repository = "https://github.com/huaium/tree-sitter-ass"
+commit = "488e4cb0a132851fbd5aba02c4c748e3fe362dcc"
