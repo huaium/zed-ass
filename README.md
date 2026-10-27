@@ -1,6 +1,6 @@
 # zed-ass
 
-ASS/SSA Syntax Highlighting for Zed.
+ASS/SSA syntax highlighting, column colors, bracket matching, and section navigation for Zed.
 
 ## Grammar
 
