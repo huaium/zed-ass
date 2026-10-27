@@ -1,0 +1,8 @@
+(section_header "[" @open "]" @close)
+(override_block "{" @open "}" @close)
+(position_tag "(" @open ")" @close)
+(move_tag "(" @open ")" @close)
+(fade_tag "(" @open ")" @close)
+(transform_tag "(" @open ")" @close)
+(clip_tag "(" @open ")" @close)
+(unknown_tag_arguments "(" @open ")" @close)

@@ -1,11 +1,11 @@
 id = "ass"
 name = "ASS Subtitle"
-version = "0.0.1"
+version = "0.1.0"
 schema_version = 1
 authors = ["Huaium <huaium233@gmail.com>"]
-description = "ASS/SSA Syntax Highlighting."
+description = "ASS/SSA syntax highlighting, column colors, bracket matching, and section navigation."
 repository = "https://github.com/huaium/zed-ass"
 
 [grammars.ass]
 repository = "https://github.com/huaium/tree-sitter-ass"
-commit = "488e4cb0a132851fbd5aba02c4c748e3fe362dcc"
+rev = "ea59446e7de5ec43bc31a719bdc942bd285d6e7e"
